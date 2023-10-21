@@ -1,15 +1,15 @@
 {
-    Name:"Abhishek Joshi";
-    Major:"Master's In Coputer Science";
-    Experience:"3.5 Yr as A Software Developer";
-    Technical_Skills: {
-      Programming_Languages: ["C++", "C", "Java", "OOPS", "Data Structures Algorithms", "Pyton (NumPy)"];
-      Back_end: ["Node.js", "Express.js", "Typescript", "PHP", "Koa.js", "Apache Kafka", "gRPC"];
-      Front_end: ["ReactJS", "JavaScript", "HTML5", "CSS3", "CMS", "Next.js"];
-      Database: ["MySQL", "Aerospike", "MongodB", "Workbench"];
-      Tools: ["GIT", "Bitbucket", "Jira"];
-      Cloud_Computing: ["Amazon Web Services (S3, EC2, Redshift, Lambda Function)", "Google Cloud Computing"];
-      Additional_Skills: ["Social Media Marketing", "SEO", "Google Ads", "Digital Marketing", "Facebook Ads", "PPC", "Graphic Designing", "Video Editing"]
+    name:"Abhishek Joshi";
+    major:"Master's In Coputer Science";
+    experience:"3.5 Yr as A Software Developer";
+    technical_skills: {
+      programming_languages: ["C++", "C", "Java", "OOPS", "Data Structures Algorithms", "Pyton (NumPy)"];
+      back_end: ["Node.js", "Express.js", "Typescript", "PHP", "Koa.js", "Apache Kafka", "gRPC"];
+      front_end: ["ReactJS", "JavaScript", "HTML5", "CSS3", "CMS", "Next.js"];
+      database: ["MySQL", "Aerospike", "MongodB", "Workbench"];
+      tools: ["GIT", "Bitbucket", "Jira"];
+      cloud_Computing: ["Amazon Web Services (S3, EC2, Redshift, Lambda Function)", "Google Cloud Computing"];
+      additional_skills: ["Social Media Marketing", "SEO", "Google Ads", "Digital Marketing", "Facebook Ads", "PPC", "Graphic Designing", "Video Editing"]
     }
   }
   
